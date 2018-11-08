@@ -1,0 +1,28 @@
+h1, h2 {
+    color: pink;
+}
+
+h1 {
+    font-size: 100px;
+    width: 50%;
+    margin: 1px;
+    padding: 1px;
+}
+h2 {
+    font-size: 25px;
+    margin-top: 1px;
+
+}
+
+div {
+    margin-bottom: 25px;
+}
+body {
+    color: white;
+    font-family: papyrus;
+    background-image: url(img/extended.jpg);
+}
+#messagesTwo {
+    margin-top: 50px;
+
+}
